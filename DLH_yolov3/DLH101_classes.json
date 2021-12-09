@@ -1,0 +1,10 @@
+{
+  "high": 1,
+  "loading":2,
+  "low": 3,
+  "peak":4,
+  "question": 5,
+  "wait":6,
+  "screen_normal": 7,
+  "screen_unnormal":8
+}
